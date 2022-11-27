@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2ed1d99f11c6e5e1",
+    "name": "sampo",
+    "description": "sampo",
+    "image": "https://www.lifebuoy.co.id/sk-eu/content/dam/brands/lifebuoy/global_use/1634310-8999999033224-01.png.rendition.767.767.png",
+    "price": 23000,
+    "create_at": "2022-11-27T06:36:34.721Z"
+  },
+  {
+    "id": "392f4ca4bcff9912",
+    "name": "name product",
+    "description": "desc",
+    "image": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+    "price": 10000,
+    "create_at": "2022-09-18T06:05:17.563Z"
+  }
+]
